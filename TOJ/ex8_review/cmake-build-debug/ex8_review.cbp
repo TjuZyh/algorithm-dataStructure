@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ex8_review"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H7_busRoad">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H7_busRoad" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H7_busRoad"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H7_busRoad/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H7_busRoad" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H7_busRoad/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H6_k">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H6_k" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H6_k"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H6_k/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H6_k" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H6_k/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H4_string">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H4_string" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H4_string"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H4_string/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H4_string" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H4_string/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H8_unRepNum">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H8_unRepNum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H8_unRepNum"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H8_unRepNum/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H8_unRepNum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H8_unRepNum/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H3_substr">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H3_substr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H3_substr"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H3_substr/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H3_substr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H3_substr/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H2_bag">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H2_bag" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H2_bag"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H2_bag/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H2_bag" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H2_bag/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C6_AB_pair">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/C6_AB_pair" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 C6_AB_pair"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C6_AB_pair/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/C6_AB_pair" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 C6_AB_pair/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H5_mergeNumber">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H5_mergeNumber" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H5_mergeNumber"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H5_mergeNumber/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H5_mergeNumber" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H5_mergeNumber/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c5_road">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/c5_road" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 c5_road"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c5_road/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/c5_road" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 c5_road/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C4_middle">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/C4_middle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 C4_middle"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C4_middle/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/C4_middle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 C4_middle/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H1_fix">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H1_fix" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H1_fix"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H1_fix/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/H1_fix" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 H1_fix/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7_wordSum">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/C7_wordSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7_wordSum"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7_wordSum/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/C7_wordSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7_wordSum/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C3_reLoad">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/C3_reLoad" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 C3_reLoad"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C3_reLoad/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/C3_reLoad" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 C3_reLoad/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C2_braket">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/C2_braket" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 C2_braket"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C2_braket/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/C2_braket" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 C2_braket/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C1_relation">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/C1_relation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 C1_relation"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C1_relation/fast">
+				<Option output="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/C1_relation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex8_review/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 C1_relation/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex8_review/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/C1_relation.cpp">
+			<Option target="C1_relation"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/C2_braket.cpp">
+			<Option target="C2_braket"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/C3_reLoad.cpp">
+			<Option target="C3_reLoad"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/C4_middle.cpp">
+			<Option target="C4_middle"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/C6_AB_pair.cpp">
+			<Option target="C6_AB_pair"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/C7_wordSum.cpp">
+			<Option target="C7_wordSum"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/H1_fix.cpp">
+			<Option target="H1_fix"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/H2_bag.cpp">
+			<Option target="H2_bag"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/H3_substr.cpp">
+			<Option target="H3_substr"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/H4_string.cpp">
+			<Option target="H4_string"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/H5_mergeNumber.cpp">
+			<Option target="H5_mergeNumber"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/H6_k.cpp">
+			<Option target="H6_k"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/H7_busRoad.cpp">
+			<Option target="H7_busRoad"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/H8_unRepNum.cpp">
+			<Option target="H8_unRepNum"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/c5_road.cpp">
+			<Option target="c5_road"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/test.cpp">
+			<Option target="C1_relation"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex8_review/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

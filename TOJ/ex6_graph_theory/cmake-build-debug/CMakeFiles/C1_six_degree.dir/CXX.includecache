@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zyh/CLionProjects/ex6_graph_theory/C1_six_degree.cpp
+iostream
+-
+string.h
+-
+algorithm
+-
+

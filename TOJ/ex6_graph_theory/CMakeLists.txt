@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.20)
+project(ex6_graph_theory)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(C1_six_degree C1_six_degree.cpp)
+add_executable(C2_rank C2_rank.cpp)
+add_executable(C2_rank2 C2_rank2.cpp)
+add_executable(C3_popular_cows C3_popular_cows.cpp)
+add_executable(H1_popularCows H1_popularCows.cpp)
+add_executable(H2_champion H2_champion.cpp)
+add_executable(H3_rewards H3_rewards.cpp)
+add_executable(H4_change H4_change.cpp)
+add_executable(H5_maze H5_maze.cpp)
+add_executable(testVector testVector.cpp)
+add_executable(testDfs testDfs.cpp)
+add_executable(tarjan tarjan.cpp)

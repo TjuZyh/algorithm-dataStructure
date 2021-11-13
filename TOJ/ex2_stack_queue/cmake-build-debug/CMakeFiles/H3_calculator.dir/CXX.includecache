@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zyh/CLionProjects/ex2_stack_queue/H3_calculator.cpp
+iostream
+-
+string.h
+-
+stdio.h
+-
+stack
+-
+stdlib.h
+-
+

@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.20)
+project(ex5_BST)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(C1_mars C1_mars.cpp )
+add_executable(C2_MstNumber C2_MstNumber.cpp)
+add_executable(C3_The_Kth_number C3_The_Kth_number.cpp)
+add_executable(H1_prefix_suffix H1_prefix_suffix.cpp)
+add_executable(H2_oulipo H2_oulipo.cpp)
+add_executable(H3_magical_forest H3_magical_forest.cpp)
+add_executable(H4_crazy_search H4_crazy_search.cpp)
+add_executable(H5_longlongMeg H5_longlongMeg.cpp)
+add_executable(hash hash.cpp)
+add_executable(test test.cpp)
+add_executable(h1_test h1_test.cpp)

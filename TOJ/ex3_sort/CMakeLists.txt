@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.20)
+project(classExercise_sort)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(classExercise_sort c1_sort_slp.cpp)
+add_executable(classExercise_sort2 c2_middle.cpp)
+add_executable(classExercise_sort3 merge_sort.cpp)
+add_executable(classExercise_sort4 c3_ultra_quickSort.cpp)
+add_executable(classExercise_sort5 h1_absolute_sort.cpp)
+add_executable(classExercise_sort6 h2_easy_sort.cpp)
+add_executable(classExercise_sort7 h3_domino.cpp)
+add_executable(h4_queue_sort h4_queue_sort.cpp)
+add_executable(classExercise_sort9 h5_excle_sort.cpp)
+add_executable(quickSord quickSord.cpp)
+add_executable(test test.cpp)
+add_executable(test2 test2.cpp)

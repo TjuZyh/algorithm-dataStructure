@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ex6_graph_theory"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testVector">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/testVector" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 testVector"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testVector/fast">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/testVector" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 testVector/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H2_champion">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/H2_champion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 H2_champion"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H2_champion/fast">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/H2_champion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 H2_champion/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C2_rank">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/C2_rank" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 C2_rank"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C2_rank/fast">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/C2_rank" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 C2_rank/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tarjan">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/tarjan" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 tarjan"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tarjan/fast">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/tarjan" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 tarjan/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C3_popular_cows">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/C3_popular_cows" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 C3_popular_cows"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C3_popular_cows/fast">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/C3_popular_cows" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 C3_popular_cows/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testDfs">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/testDfs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 testDfs"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testDfs/fast">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/testDfs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 testDfs/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H3_rewards">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/H3_rewards" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 H3_rewards"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H3_rewards/fast">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/H3_rewards" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 H3_rewards/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C1_six_degree">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/C1_six_degree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 C1_six_degree"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C1_six_degree/fast">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/C1_six_degree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 C1_six_degree/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C2_rank2">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/C2_rank2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 C2_rank2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C2_rank2/fast">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/C2_rank2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 C2_rank2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H5_maze">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/H5_maze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 H5_maze"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H5_maze/fast">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/H5_maze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 H5_maze/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H4_change">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/H4_change" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 H4_change"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H4_change/fast">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/H4_change" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 H4_change/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H1_popularCows">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/H1_popularCows" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 H1_popularCows"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="H1_popularCows/fast">
+				<Option output="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/H1_popularCows" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 H1_popularCows/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zyh/CLionProjects/ex6_graph_theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/C1_six_degree.cpp">
+			<Option target="C1_six_degree"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/C2_rank.cpp">
+			<Option target="C2_rank"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/C2_rank2.cpp">
+			<Option target="C2_rank2"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/C3_popular_cows.cpp">
+			<Option target="C3_popular_cows"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/H1_popularCows.cpp">
+			<Option target="H1_popularCows"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/H2_champion.cpp">
+			<Option target="H2_champion"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/H3_rewards.cpp">
+			<Option target="H3_rewards"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/H4_change.cpp">
+			<Option target="H4_change"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/H5_maze.cpp">
+			<Option target="H5_maze"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/tarjan.cpp">
+			<Option target="tarjan"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/testDfs.cpp">
+			<Option target="testDfs"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/testVector.cpp">
+			<Option target="testVector"/>
+		</Unit>
+		<Unit filename="/Users/zyh/CLionProjects/ex6_graph_theory/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

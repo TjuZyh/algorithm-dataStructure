@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.20)
+project(ex6_graph2_theory)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(C1_Agri_Net C1_Agri_Net.cpp)
+add_executable(C2_Bad_Cowtractors C2_Bad_Cowtractors.cpp)
+add_executable(C3_cows_home C3_cows_home.cpp)
+add_executable(H1_Constructing_Roads H1_Constructing_Roads.cpp)
+add_executable(H2_unique_MST H2_unique_MST.cpp)
+add_executable(H3_space_station H3_space_station.cpp)
+add_executable(H4_find_route H4_find_route.cpp)
+add_executable(H5_XYZZY H5_XYZZY.cpp)
+add_executable(H6_travel H6_travel.cpp)
+add_executable(Kruskal Kruskal.cpp)
+add_executable(Floyd Floyd.cpp)
+add_executable(test_minTree test_minTree.cpp)

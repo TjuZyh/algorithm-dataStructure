@@ -1,0 +1,11 @@
+/Users/zyh/CLionProjects/ex4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zyh/CLionProjects/ex4/cmake-build-debug/CMakeFiles/test.dir
+/Users/zyh/CLionProjects/ex4/cmake-build-debug/CMakeFiles/mergeArr.dir
+/Users/zyh/CLionProjects/ex4/cmake-build-debug/CMakeFiles/forest.dir
+/Users/zyh/CLionProjects/ex4/cmake-build-debug/CMakeFiles/cows.dir
+/Users/zyh/CLionProjects/ex4/cmake-build-debug/CMakeFiles/wall.dir
+/Users/zyh/CLionProjects/ex4/cmake-build-debug/CMakeFiles/greatNumber.dir
+/Users/zyh/CLionProjects/ex4/cmake-build-debug/CMakeFiles/entropy.dir
+/Users/zyh/CLionProjects/ex4/cmake-build-debug/CMakeFiles/surroundTree.dir
+/Users/zyh/CLionProjects/ex4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zyh/CLionProjects/ex4/cmake-build-debug/CMakeFiles/fenceRepair.dir
